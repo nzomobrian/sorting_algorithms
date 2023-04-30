@@ -14,7 +14,6 @@ This project is meant to be done by groups of two students. Each group of two sh
 
 Resources
 ---------
-
 **Read or watch**:
 
 -   [Sorting algorithm](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg "Sorting algorithm")
